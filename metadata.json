@@ -1,0 +1,6 @@
+{
+  "name": "TNT CAR - CRM Quản Lý Xe Ô Tô Đã Qua Sử Dụng",
+  "description": "Hệ thống CRM quản trị kinh doanh xe ô tô đã qua sử dụng TNT CAR: Sales App, Quản lý kho xe, Báo giá & duyệt cọc, Website listing công khai và định giá thu cũ đổi mới.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
